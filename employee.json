@@ -1,0 +1,29 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "Name": "Sonali Jha",
+      "Salary": 400000
+    },
+    {
+      "id": 2,
+      "name": "Priyanka Chopra",
+      "Salary": 500000
+    },
+    {
+      "firstName": "Mark Smith",
+      "Salary": 200000,
+      "id": 3
+    },
+    {
+      "firstName": "Robert Thomas",
+      "Salary": 700000,
+      "id": 4
+    },
+    {
+      "name": "Bill Gates",
+      "Salary": 700000,
+      "id": 5
+    }
+  ]
+}
